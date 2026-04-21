@@ -26,4 +26,4 @@ The goal is to analyze daily sales data, calculate descriptive statistics, visua
 ![Sales Trend](images/sales_plot.png)
 
 ## Author
-Oksana Polischuk  
+Oksana Polishchuk  
