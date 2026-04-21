@@ -10,6 +10,8 @@ The goal is to analyze daily sales data, calculate descriptive statistics, visua
     1. data/sales_data.csv
     2. images/sales_plot.png
               sales_histogram.png
+              sales_moving_average.png
+              sales_regression.png
     3. notebooks/analysis.ipynb 
                  final_analysis.ipynb 
     4. src/analysis.py 
