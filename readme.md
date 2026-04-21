@@ -9,8 +9,9 @@ The goal is to analyze daily sales data, calculate descriptive statistics, visua
     mini_eda_project/ 
     1. data/sales_data.csv
     2. images/sales_plot.png
+              sales_histogram.png
     3. notebooks/analysis.ipynb 
-                  final_analysis.ipynb 
+                 final_analysis.ipynb 
     4. src/analysis.py 
     5. README.md
     6. requirements.txt
@@ -26,7 +27,10 @@ The goal is to analyze daily sales data, calculate descriptive statistics, visua
 ![Sales Trend](images/sales_plot.png)
 ## Sales Distribution Histogram
 ![Sales Histogram](images/sales_histogram.png)
-
+## Moving Average
+![Moving Average](images/sales_moving_average.png)
+## Linear regression
+![Linear regression](images/sales_regression.png)
 
 ## Author
 Oksana Polishchuk  
