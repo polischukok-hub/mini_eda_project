@@ -22,7 +22,7 @@ The goal is to analyze daily sales data, calculate descriptive statistics, visua
 - **Clean project folder organization**
 
 ## Example Visualization
-![Sales Trend](../mini_eda_project/images/sales_plot.png)
+![Sales Trend](images/sales_plot.png)
 
 ## Author
 Oksana Polischuk  
