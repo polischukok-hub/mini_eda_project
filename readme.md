@@ -1,4 +1,4 @@
 # Mini EDA Project
-## Попередні висновки
-- Найбільші продажі були на 4-й день.
-- Дані маленькі, але підходять для тренування Git.
+## Preliminary results
+- The most of the sales were on 4th day.
+- Dataset is small but OK for Git training.
