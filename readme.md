@@ -7,11 +7,12 @@ The goal is to analyze daily sales data, calculate descriptive statistics, visua
 
 ## Project Structure
     mini_eda_project/ 
-    1 data/sales_data.csv 
-    2 notebooks/analysis.ipynb 
+    1. data/sales_data.csv 
+    2. notebooks/analysis.ipynb 
                   final_analysis.ipynb 
-    3 src/analysis.py 
-    4 README.md
+    3. src/analysis.py 
+    4. README.md
+    5. requirements.txt
 
 ## Contents
 - **Data loading and inspection**
