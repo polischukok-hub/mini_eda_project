@@ -24,6 +24,9 @@ The goal is to analyze daily sales data, calculate descriptive statistics, visua
 
 ## Example Visualization
 ![Sales Trend](images/sales_plot.png)
+## Sales Distribution Histogram
+![Sales Histogram](images/sales_histogram.png)
+
 
 ## Author
 Oksana Polishchuk  
